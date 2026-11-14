@@ -1,3 +1,5 @@
+package Ejercicio1_Taller7;
+
 public class Empleado {
     public String nombre;
     private double salario;

@@ -1,3 +1,5 @@
+package Ejercicio3_Taller7;
+
 public class Utilidades {
     public static double sumar(double a, double b) {
         return a + b;
